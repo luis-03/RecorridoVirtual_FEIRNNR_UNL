@@ -1,0 +1,68 @@
+#############################################
+# Unity: Carpetas Generadas (IGNORAR)
+#############################################
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+MemoryCaptures/
+/[Aa]ssets/AssetStoreTools*
+
+#############################################
+# Unity: Archivos de Proyecto (IGNORAR)
+#############################################
+# Estos se crean solos cuando abres el proyecto en tu PC
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+#############################################
+# Binarios y Compilaciones (IGNORAR)
+#############################################
+# Nunca subas los ejecutables o instaladores al código fuente
+*.apk
+*.aab
+*.exe
+*.app
+*.unitypackage
+*.zip
+*.rar
+
+#############################################
+# Carpetas de Build específicas detectadas
+#############################################
+# Añadimos tus carpetas de compilación actuales
+/RecorridoUNL_V2.1.0/
+/RecrridoV2/
+/RecorridoPrueba_BurstDebugInformation_DoNotShip/
+
+#############################################
+# Crash Reports y Logs de Debug
+#############################################
+*BurstDebugInformation*
+*.stacktrace
+/CrashReports/
+
+#############################################
+# Sistema Operativo e IDEs
+#############################################
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+.gradle/
